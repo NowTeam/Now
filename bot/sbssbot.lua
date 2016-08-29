@@ -210,11 +210,13 @@ function create_config( )
     enabled_plugins = {
     "SUDO",
     "addplug",
+    "now",
     "admin",
     "all",
     "anti_spam",
     "banhammer",
     "broadcast",
+    "date",
     "calc",
     "chat",
     "download_media",
@@ -245,6 +247,7 @@ function create_config( )
     "plugins",
     "s2a",
     "say",
+    "saveplug",
     "send",
     "set",
     "share",
@@ -256,10 +259,10 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {139374223},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
+    about_text = [[Now Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
@@ -274,7 +277,7 @@ function create_config( )
     Powered By @TeleNowTeam
     
     #Open Source
-    https://github.com/NowTeam/no
+    https://github.com/NowTeam/now
 ]],
     help_text_realm = [[
 See Patterns In Github
