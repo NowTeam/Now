@@ -263,7 +263,7 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @Im_Pv
     
     Special Thanks To:
     Mehr Pouya
@@ -271,10 +271,10 @@ function create_config( )
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @TeleNowTeam
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/NowTeam/no
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -429,7 +429,7 @@ ____________
 Send /share to get robot number
 ____________
 You can use [ ! , / or # ]or don’t use them
-More Details on @Sbss_Team
+More Details on @TeleNowTea
 ]]
   }
   serialize_to_file(config, './data/config.lua')
