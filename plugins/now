@@ -1,0 +1,20 @@
+function run(msg, matches)
+return [[
+T E L E N O W BOT
+
+Creator And SUDO: @Im_PV
+Spical Thank:
+Mehdi (janlou)
+Abass (attackermy)
+Mina  (MinaProgram)
+این سورس قابلیت سوپر گروه را ندارد ولی به زودی سورس جدیدی سوپر گروپ نصب میکنید
+#Open Source
+https://github.com/NowTeam/Now
+
+Channel: @TeleNowTeam
+]]
+end
+return {
+patterns = {"^(Now)$"},
+run = run
+}
